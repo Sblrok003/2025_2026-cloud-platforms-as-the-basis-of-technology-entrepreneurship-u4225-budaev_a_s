@@ -4,7 +4,7 @@ Course: [Cloud platforms as the basis of technology entrepreneurship](https://) 
 Year: 2025/2026
 Group: U4225
 Author: Budaev Alexandr Sayanovich
-Lab: Lab2
+Lab: Lab3
 Date of create: 25.11.2025
 Date of finished: 25.11.2025
 
